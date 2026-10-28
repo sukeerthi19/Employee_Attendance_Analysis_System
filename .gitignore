@@ -1,0 +1,6 @@
+attendance.db
+__pycache__/
+*.py[cod]
+.venv/
+reports/*.csv
+reports/*.png
