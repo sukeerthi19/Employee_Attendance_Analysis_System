@@ -5,3 +5,7 @@ __pycache__/
 .env
 .streamlit/secrets.toml
 .DS_Store
+.streamlit/secrets.toml
+.streamlit/
+../.streamlit/
+../.agents/
